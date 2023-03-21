@@ -1,7 +1,7 @@
 {
   "name": "RedVoid",
-  "version": "1.1",
-  "description": "RedVoid is a theme that changes you discord to a darker mode. Main colors are Red and Black.",
+  "version": "1.2",
+  "description": "A black theme splashed with red and blue",
   "authors": [
     {
       "name": "Cassidy",
@@ -129,10 +129,10 @@
     "PRIMARY_DARK_360": "#c44141",
     "PRIMARY_DARK_400": "#c8e8f7",
     "PRIMARY_DARK_500": "#c44141",
-    "PRIMARY_DARK_600": "#450000",
+    "PRIMARY_DARK_600": "#000000",
     "PRIMARY_DARK_630": "#000000",
     "PRIMARY_DARK_700": "#000000",
-    "PRIMARY_DARK_800": "#450000",
+    "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#c44141",
     "BRAND_NEW": "#c44141",
     "WHITE": "#ffffff",
