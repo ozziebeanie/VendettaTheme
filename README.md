@@ -4,5 +4,7 @@ This theme was created for the mobile Discord Client, Vendetta. To install the t
 
 https://raw.githubusercontent.com/ozziebeanie/VendettaTheme/Version-1.1/RedVoid.json
 
+## Screenshot links
+
 https://media.discordapp.net/attachments/1086413283688448202/1089938886345625640/IMG_5212.png?width=197&height=426
 https://media.discordapp.net/attachments/1086413283688448202/1089938886651817994/IMG_5213.png?width=197&height=426
