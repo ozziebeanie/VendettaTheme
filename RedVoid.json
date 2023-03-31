@@ -122,6 +122,7 @@
         ]
     },
     "rawColors": {
+        "GITHUB": "#c44141",
         "PRIMARY_500": "#c44141",
         "PRIMARY_100": "#c44141",
         "PRIMARY_200": "#ffffff",
